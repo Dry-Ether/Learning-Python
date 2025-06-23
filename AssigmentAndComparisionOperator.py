@@ -1,0 +1,14 @@
+a,b=1,2
+c=a+b
+print(c)
+c+=a
+print(c)
+c%=b
+print(c)
+c//=a
+print(c)
+"""
+3
+4
+0
+0"""
