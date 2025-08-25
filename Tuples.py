@@ -7,3 +7,5 @@ print(max(tuple2))
 print(min(tuple2))
 print(tuple3)
 print(tuple4)
+
+#sad
